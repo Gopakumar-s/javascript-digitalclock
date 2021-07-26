@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(75, 84, 100);
+    font-family: electrolize;
+}
+.clock{
+    background-color: black;
+    position :absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: chartreuse;
+    font-size: 120px;
+    border: 10px solid rgb(189, 189, 189);
+    padding: 0px 5px 0px 5px;
+}
